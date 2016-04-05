@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioalbertifabrici00fabr_1185.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1691 1578 2471 2768">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1691 1578 2471 2768">
+     <span class='ocr_line' id='line_1_1' title="bbox 1691 1578 2471 2768"><span class='ocrx_word' id='word_1_1' title='bbox 1691 1578 2471 2768; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 736 1659 1239 2070">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 736 1659 1239 2070">
+     <span class='ocr_line' id='line_1_2' title="bbox 1230 1659 1239 1669; baseline 10 -10"><span class='ocrx_word' id='word_1_2' title='bbox 1230 1659 1239 1669; x_wconf 74' lang='grc'><strong>..</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 943 1691 954 1999; baseline 77 -308"><span class='ocrx_word' id='word_1_3' title='bbox 943 1691 949 1706; x_wconf 77' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_4' title='bbox 947 1996 954 1999; x_wconf 66' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 736 1660 746 2070; baseline -410 0"><span class='ocrx_word' id='word_1_5' title='bbox 737 1660 746 1675; x_wconf 40' lang='lat' dir='ltr'><strong>..a</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 736 2068 743 2070; x_wconf 74' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
